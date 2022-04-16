@@ -17,4 +17,10 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
+  background-color: teal;
+  color: white;
+}
+
+.country-list{
+  list-style: none;
 }
